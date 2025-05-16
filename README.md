@@ -18,7 +18,7 @@
 ## Let's Connect!
 - 💼 [LinkedIn](https://linkedin.com/in/jermy-cardenas)
 - 🌐 [Portfolio](https://jermy-cardenas.vercel.app/)
-- 📧 Email: cardenas.jermyy@gmail.com
+- 📧 cardenas.jermyy@gmail.com
 
 
 <!--
