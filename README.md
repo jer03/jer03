@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jermy
 
-🎓 Senior Computer Science Major | 🔧 Full-Stack Developer | 🚀 Passionate about AI, Systems, Cloud, and Cybersecurity
+🎓 Computer Science Major | 🔧 Full-Stack Developer | 🚀 Passionate about AI, Systems, Cloud, and Cybersecurity
 
 ---
 
